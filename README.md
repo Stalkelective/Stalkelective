@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Stalkelective
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Android
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...anam1641@gmail.com
+- 👀 I’m interested in Learing new things but im slow learner
+- 🌱 I’m currently learning ...Androi
+- 📫 How to reach me ...anam1641@gmail.com 
 
 <!---
 Stalkelective/Stalkelective is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
