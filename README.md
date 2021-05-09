@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stalkelective
 - 👀 I’m interested in Learing new things but im slow learner
-- 🌱 I’m currently learning ...Androi
+- 🌱 I’m currently learning ...Android
 - 📫 How to reach me anam1641@gmail.com 
 
 <!---
